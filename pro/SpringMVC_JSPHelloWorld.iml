@@ -26,9 +26,10 @@
       <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/resources" type="java-resource" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
     </content>
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Maven: org.springframework:spring-core:4.1.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: commons-logging:commons-logging:1.2" level="project" />
@@ -40,5 +41,12 @@
     <orderEntry type="library" name="Maven: org.springframework:spring-webmvc:4.1.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.springframework:spring-expression:4.1.5.RELEASE" level="project" />
     <orderEntry type="library" name="Maven: org.glassfish:javax.faces:2.2.10" level="project" />
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+    <orderEntry type="library" name="Maven: postgresql:postgresql:9.4.1208-jdbc42-atlassian-hosted" level="project" />
+>>>>>>> 42602da9d95b268283ff0723968b21bb7d4eca54
+>>>>>>> 2f3c39e7b763033f43f6c6c1b0dd66d5f5b3bd52
   </component>
 </module>
